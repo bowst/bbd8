@@ -1,0 +1,6 @@
+name: BBD8   # Required
+type: theme  # Required
+description: A demo theme from Bowst that will teach you about D8 Theming. # Required
+core: 8.x  # Required
+regions:
+  content: Content  # Required
