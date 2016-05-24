@@ -7,8 +7,5 @@ theme.
 We will follow these steps, using the Theme Guide on Drupal.org as a reference: https://www.drupal.org/theme-guide/8
 
 1. Define a theme with an .info.yml file
-2. Add regions to the theme
-2. Use the recommended theme folder structure
-2. Add CSS and JS to a theme
-2. Learn about Twig in D8
+2. Add regions to a theme
 
