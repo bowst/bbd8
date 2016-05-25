@@ -11,4 +11,8 @@ base theme: stable
 regions:
   # Required
   content: Content
+  sidebar_second: Sidebar Second
+  sidebar_first: Sidebar First
+
+  
   
