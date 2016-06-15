@@ -7,7 +7,7 @@ description: A demo theme from Bowst that will teach you about D8 Theming.
 # Required
 core: 8.x
 # Recommended: Stable (default) or Classy
-base theme: stable
+base theme: classy
 regions:
   # Required
   content: Content
